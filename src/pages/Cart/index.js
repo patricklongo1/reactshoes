@@ -1,7 +1,7 @@
-import React from './node_modules/react';
+import React from 'react';
 
 // import { Container } from './styles';
 
 export default function Cart() {
-    return <div />;
+    return <h1>Cart</h1>;
 }
