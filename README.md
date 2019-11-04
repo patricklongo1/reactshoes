@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# reactshoes
+App WEB, desenvolvido com ReactJS, utilizando arquitetura Flux com a lib Redux. Está app simula um e-commerce de calçados.
+>>>>>>> bd774272f3763bb5f44c878a8ee8af0b9e693c60
