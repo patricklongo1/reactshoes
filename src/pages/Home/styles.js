@@ -47,6 +47,8 @@ export const ProductList = styled.ul`
             }
 
             div {
+                color: #000;
+                font-weight: bold;
                 display: flex;
                 align-items: center;
                 padding: 12px;
