@@ -13,7 +13,7 @@ export default createGlobalStyle`
     }
 
     body {
-        background: #fbec5d url(${background}) no-repeat center top;
+        background: #ffd700 url(${background}) no-repeat center top;
         -webkit-font-smoothing: antialiased !important;
         text-rendering: optimizeLegibility !important;
     }

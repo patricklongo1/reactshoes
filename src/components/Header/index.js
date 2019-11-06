@@ -7,17 +7,15 @@ import logo from '../../assets/images/Logo.png';
 // import { Container } from './styles';
 
 export default function Header() {
-  return (
+    return (
         <Container>
             <Link to="/">
-            <img src={logo} alt="ReactShoes" />
+                <img src={logo} alt="ReactShoes" />
             </Link>
 
             <Cart to="/cart">
                 <div>
-                    <strong>
-                        Meu carrinho
-                    </strong>
+                    <strong>Meu carrinho</strong>
                     <span>3 itens</span>
                 </div>
                 <MdShoppingBasket size={36} color="#fff" />
