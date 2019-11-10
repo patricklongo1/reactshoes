@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
@@ -50,7 +51,7 @@ class Home extends Component {
                                 {amount[product.id] || 0}
                             </div>
 
-                            <span>ADD TO CART</span>
+                            <span>ADICIONAR AO CARRINHO</span>
                         </button>
                     </li>
                 ))}
