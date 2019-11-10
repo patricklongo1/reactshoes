@@ -5,6 +5,7 @@ import { MdShoppingBasket } from 'react-icons/md';
 import { Container, Cart } from './styles';
 import logo from '../../assets/images/Logo.png';
 
+// eslint-disable-next-line react/prop-types
 function Header({ cartSize }) {
     return (
         <Container>
